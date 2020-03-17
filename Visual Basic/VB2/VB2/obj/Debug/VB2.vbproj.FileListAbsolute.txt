@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\bin\Debug\VB2.exe.config
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\bin\Debug\VB2.exe
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\bin\Debug\VB2.pdb
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\bin\Debug\VB2.xml
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\obj\Debug\VB2.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\obj\Debug\VB2.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\obj\Debug\VB2.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\obj\Debug\VB2.exe
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\obj\Debug\VB2.xml
+c:\users\user\documents\visual studio 2012\Projects\VB2\VB2\obj\Debug\VB2.pdb
