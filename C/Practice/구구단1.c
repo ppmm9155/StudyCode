@@ -9,7 +9,7 @@ int main (void)
 	printf("구구단 출력하고싶은 단을 입력하시오:");
 	scanf("%d",&n);
 
-	while(i<=9)	//i는 9이하 
+	while(i<=9)	//i는 9 될떄까지 반복 
 	{ 
 		printf("%d * %d = %d\n",n,i,n*i);
 		i++;
