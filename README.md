@@ -1,2 +1,2 @@
 # -Hello World!
-# -C, JAVA, Visual Basic ..Languages learn
+# -코딩공부
